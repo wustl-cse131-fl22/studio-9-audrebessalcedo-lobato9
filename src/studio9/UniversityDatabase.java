@@ -28,7 +28,6 @@ public class UniversityDatabase {
 		else {
 			return b.getFullName();
 		}
-		
 	}
 
 	public double getTotalBearBucks() {
